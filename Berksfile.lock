@@ -1,0 +1,15 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "java": {
+      "locked_version": "1.22.0"
+    },
+    "android-repo": {
+      "locked_version": "0.1.0",
+      "git": "https://github.com/mtakagi/repo.git",
+      "ref": "0b8a078231e5d200d63fbe8ce2596fecc7952bc6"
+    }
+  }
+}
